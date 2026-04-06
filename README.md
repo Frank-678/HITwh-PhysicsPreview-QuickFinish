@@ -247,6 +247,12 @@ function isVisible(elem) {
 - `开发日志.txt`：完整的架构判断、DOM 抓取、接口调试、限流与超时问题记录
 - `README.md`：本说明文档
 
+## 还是说点人话
+deepseek和gemini都很好用。deepseek大约花5分钱就全搞定了。gemini有一定免费额度，但不多。花钱我倒是没尝试。
+gemini选模型在“https://generativelanguage.googleapis.com/v1beta/models?key=”打开的json中的name选
+deepseek官方文档很清晰 在“https://api-docs.deepseek.com/zh-cn/”选。
+这也是我第一次尝试用api，也是第一次花了钱！！很好的经历。
+
 ## 免责声明
 
 本仓库更适合作为以下方向的技术记录与研究材料：
